@@ -1,0 +1,8 @@
+// RESET all elements and pseudo elements
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}

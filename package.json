@@ -1,0 +1,31 @@
+{
+  "name": "web-app-starter-sass",
+  "version": "1.0.0",
+  "description": "Web app starter using BEM and 7-1 Sass architectures",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass -w sass/main.scss css/style.css"
+  },
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikesparr/web-app-starter-sass.git"
+  },
+  "keywords": [
+    "HTML",
+    "Saas",
+    "SCSS",
+    "7-1",
+    "BEM",
+    "web",
+    "app"
+  ],
+  "author": "Mike Sparr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikesparr/web-app-starter-sass/issues"
+  },
+  "homepage": "https://github.com/mikesparr/web-app-starter-sass#readme"
+}
